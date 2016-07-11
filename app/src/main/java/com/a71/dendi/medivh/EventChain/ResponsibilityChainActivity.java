@@ -1,4 +1,4 @@
-package com.a71.dendi.medivh.utils.EventChain;
+package com.a71.dendi.medivh.EventChain;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;

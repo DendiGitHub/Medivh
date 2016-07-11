@@ -42,7 +42,7 @@
             android:theme="@style/AppTheme">
         </activity>
         <activity
-            android:name=".utils.EventChain.ResponsibilityChainActivity"
+            android:name=".EventChain.ResponsibilityChainActivity"
             android:label="ResponsibilityChainActivity"
             android:theme="@style/AppTheme"></activity>
         <activity android:name=".quickpay.QuickPayActivity"

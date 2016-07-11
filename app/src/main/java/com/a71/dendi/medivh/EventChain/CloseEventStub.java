@@ -1,8 +1,7 @@
-package com.a71.dendi.medivh.utils.EventChain;
+package com.a71.dendi.medivh.EventChain;
 
 import android.app.Activity;
 import android.support.annotation.NonNull;
-import android.view.View;
 
 /**
  * Created by Dendi on 2016/7/3.
